@@ -1,0 +1,25 @@
+{
+  "name": "slack-scam-monitor",
+  "version": "1.0.0",
+  "description": "This API will act as a listener to slack events to monitor for specific scams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viraj2252/slack-scam-monitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viraj2252/slack-scam-monitor/issues"
+  },
+  "homepage": "https://github.com/viraj2252/slack-scam-monitor#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
